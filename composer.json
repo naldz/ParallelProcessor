@@ -6,6 +6,6 @@
         "symfony/process": "2.4.*"
     },
     "autoload": {
-        "psr-4": { "Naldz\\ParallelProcessor": "ParallelProcessor" }
+        "psr-4": { "Naldz\\ParallelProcessor\\": "ParallelProcessor" }
     }
 }
